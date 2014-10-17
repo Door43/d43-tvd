@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tvd:home|Door43 (tvd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tvd|d43-tvd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tvd/archive/master.zip|d43-tvd.zip]]
+
+**Recent Changes**
+{{changes>ns = tvd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tvd|Ethnologue data]]
+
